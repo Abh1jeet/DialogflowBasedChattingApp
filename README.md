@@ -10,8 +10,8 @@ Dialogflow is a  human–computer interaction technology based on natural langua
 Webhooks are "user-defined HTTP callbacks" They are usually triggered by some event ,,,,
 When that event occurs, the source site makes an HTTP request to the URL configured for the webhook
 
-# (query) user -> dialogflow -> webhook
-# (output)user <- dialoglow  <- webhook
+### (query) user -> dialogflow -> webhook
+### (output)user <- dialoglow  <- webhook
 
 
 
